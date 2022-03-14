@@ -18,7 +18,7 @@
 
 <hr>
 
-**Ipitni zadaci**
+**Ispitni zadaci**
 
 <hr>
 
