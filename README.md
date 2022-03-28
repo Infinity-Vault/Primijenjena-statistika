@@ -18,6 +18,8 @@
 
 [Vjezbe 3 Sanja Kapetanovic (21.03.2022.)](https://github.com/Infinity-Vault/Primijenjena-statistika/raw/main/Vjezbe/PS_predavanja_vjezbe_3.xlsx)
 
+[Vjezbe 4 Nina Bijedic (28.03.2022.)](https://github.com/Infinity-Vault/Primijenjena-statistika/raw/main/Vjezbe/PS_predavanja_vjezbe_4.xlsx)
+
 <hr>
 
 **Ispitni zadaci**
