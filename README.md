@@ -6,7 +6,7 @@
 
 <hr>
 
-[Linkovi za objasnjenje raspodjela](https://github.com/Infinity-Vault/Primijenjena-statistika/raw/main/Predavanja/Linkovi.rtf)
+[Linkovi za objasnjenje raspodjela](https://github.com/Infinity-Vault/Primijenjena-statistika/raw/main/Predavanja/Linkovi.docx)
 
 <hr>
  
