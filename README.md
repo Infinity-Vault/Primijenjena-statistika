@@ -36,5 +36,7 @@
 
 [Prvi parcijalni ispit Nina Bijedic (11.04.2022.)](https://github.com/Infinity-Vault/Primijenjena-statistika/raw/main/Ispitni%20zadaci/PS_prvi_parcijalni_2022_04_11_Nina_Bijedic.xlsx)
 
+[Primjer ispita za zdravstvenu statistiku](https://github.com/Infinity-Vault/Primijenjena-statistika/raw/main/Ispitni%20zadaci/ZS_Prrim22.xlsx)
+
 <hr>
 
