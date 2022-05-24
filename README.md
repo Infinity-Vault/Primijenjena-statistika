@@ -8,6 +8,8 @@
 
 [Linkovi za objasnjenje raspodjela](https://github.com/Infinity-Vault/Primijenjena-statistika/raw/main/Predavanja/Linkovi.docx)
 
+[Skala koeficijenta korelacije kod regresije](https://github.com/Infinity-Vault/Primijenjena-statistika/raw/main/Materijali/Skalakorelacije.png)
+
 <hr>
  
 **Vjezbe**
