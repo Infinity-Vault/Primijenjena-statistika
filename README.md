@@ -34,6 +34,8 @@
 
 [Vjezbe 10 Nina Bijedic (23.05.2022.)](https://github.com/Infinity-Vault/Primijenjena-statistika/raw/main/Vjezbe/PS_Predavanja_Vjezbe_10.xlsx)
 
+[Vjezbe 11 Nina Bijedic (30.05.2022.)](https://github.com/Infinity-Vault/Primijenjena-statistika/raw/main/Vjezbe/PS_Predavanja_Vjezbe_11.xlsx)
+
 <hr>
  
 **Ispitni zadaci**
